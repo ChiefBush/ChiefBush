@@ -69,9 +69,16 @@ Cloud         AWS Cloud Foundations · NVIDIA Deep Learning
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chiefbush&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=chiefbush&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiefbush&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiefbush&show_icons=true&locale=en&theme=dark&hide_border=true)
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=chiefbush&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chiefbush&theme=github-dark&hide_border=true&area=true)
 
 </div>
 
