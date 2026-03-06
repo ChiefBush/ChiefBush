@@ -1,38 +1,85 @@
-<h1 align="center">Hi 👋, I'm Shishir Dwivedi</h1>
-<h3 align="center">I’m a Computer Science and Business Systems undergraduate with a strong focus on backend engineering, applied AI, and scalable system design. I work across research, startups, and engineering, with hands-on experience in AI-driven computer vision, geospatial intelligence, cybersecurity, and enterprise backend infrastructure. My work blends engineering principles with real-world impact—whether it’s pitching to ISRO, developing tools for medical imaging, or designing future-forward city planning models.</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiefbush" alt="chiefbush" /></a> </p>
+# Shishir Dwivedi
 
-- 🔭 I’m currently working on ****VACANT** – A geospatial intelligence platform using AI + remote sensing**
+**Co-Founder @ GingXR · Lead Projects & Operations @ IndrEV**
 
-- 🌱 I’m currently learning **Advanced backend architectures (microservices, event-driven systems) Next.js and server-side rendering Deepening expertise in GIS tooling and 3D urban modeling**
+*CS & Business Systems graduate building at the intersection of immersive tech, EV infrastructure, and applied AI.*
 
-- 👯 I’m looking to collaborate on ****AR for Businesses** – Integrating Augmented Reality into traditional business workflows**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shirshir-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shirshir)
+[![GingXR](https://img.shields.io/badge/Website-gingxr.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://www.gingxr.com)
+[![IndrEV](https://img.shields.io/badge/Website-indrev.in-1DB954?style=flat-square&logo=google-chrome&logoColor=white)](https://www.indrev.in)
+[![Email](https://img.shields.io/badge/Email-shishir.dwivedi@gingxr.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shishir.dwivedi@gingxr.com)
 
-- 🤝 I’m looking for help with ****LLM-enhanced Remote Sensing Analysis** – Combining satellite data with large language models**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://www.turbosquid.com/Search/Artists/RoseSibley21](https://www.turbosquid.com/Search/Artists/RoseSibley21)
+---
 
-- 💬 Ask me about **Backend development AI for medical imaging City planning automation using AI and GIS React, Vue, GSAP**
+## What I'm Building
 
-- 📫 How to reach me **shishirdwivedi2004@gmail.com**
+**[GingXR](https://www.gingxr.com)** — Building spatially intelligent AR interfaces that plug into existing enterprise ecosystems. Not visualization for its own sake — operational infrastructure for the digital-physical world. *Recently opened our first office.*
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1K7v14Q3jQI2HgBcCe-IE6xzEQ9vUJXn-/edit?usp=sharing&ouid=100744236397400986332&rtpof=true&sd=true](https://docs.google.com/document/d/1K7v14Q3jQI2HgBcCe-IE6xzEQ9vUJXn-/edit?usp=sharing&ouid=100744236397400986332&rtpof=true&sd=true)
+**[IndrEV](https://www.indrev.in)** — Scaling EV charging infrastructure across North India's highway corridors. Leading projects and operations across franchise rollout and location partnerships.
 
-- ⚡ Fun fact **I built and sold my first game at age 13. I think I’m still funny.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shirshir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shirshir" height="30" width="40" /></a>
-<a href="https://instagram.com/shishirdwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shishirdwi" height="30" width="40" /></a>
-<a href="https://discord.gg/rosesibley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rosesibley" height="30" width="40" /></a>
-</p>
+## Background
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+CS & Business Systems graduate from Amity University. My work sits at the edge of product, research, and operations — I move between writing code and running rooms.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiefbush&show_icons=true&locale=en&layout=compact" alt="chiefbush" /></p>
+Past: Research intern at **CSIR-National Physical Laboratory**, where I built secure IoT sensor nodes for metrology-grade monitoring — showcased to an international delegation from NMI Thailand.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiefbush&show_icons=true&locale=en" alt="chiefbush" /></p>
+Published research on **deep learning for brain tumour classification** (MRI), presented at AutoCom-25. Top 2% finish at the **Amazon ML Challenge 2025**. Top 10 nationally at the **ISRO NRSC Immersion Challenge**. **SIREN**, our patented wearable safety system for high-risk environments, won *Most Commercially Viable Project* at InCITe 2026.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiefbush&theme=dark" alt="chiefbush" /></p>
+Attended National Space Day in both 2024 and 2025. Represented at the **AI Impact Summit** and **GLEX 2025**. Pitched **V.A.C.A.N.T.** — a geospatial AI platform for urban planning — directly to ISRO scientists.
+
+Sold my first game at 13. Have been building ever since.
+
+---
+
+## Stack
+
+```
+Languages     Python · JavaScript · TypeScript · Java · C++ · C# · Swift
+Frontend      React · Vue · Next.js · Tailwind · GSAP
+Backend       Node.js · Express · Flask · Firebase · MySQL · MongoDB
+AI / ML       PyTorch · TensorFlow · OpenCV · scikit-learn · LightGBM · CLIP · SBERT
+IoT           ESP32 · ESP8266 · LoRa · GPS · HTTPS · EEPROM buffering
+3D / XR       Unity · Unreal · Blender
+Networking    CCNA (Intro → SRWE → ENSA) · Network Security · Automation
+Cloud         AWS Cloud Foundations · NVIDIA Deep Learning
+```
+
+---
+
+## Selected Projects
+
+| Project | What it does |
+|---|---|
+| **[V.A.C.A.N.T.](https://github.com/ChiefBush)** | Geospatial AI platform for 3D urban planning & threat analysis — pitched to ISRO |
+| **[SIREN](https://github.com/ChiefBush/InCITeProject)** | Patented wearable safety system — LoRa comms, predictive ML, env. sensing. *Most Commercially Viable @ InCITe 2026* |
+| **[SensorSync](https://github.com/ChiefBush/SensorBoard)** | IoT sensor node (ESP8266 + DHT11) with encrypted transmission & GPS traceability — built at CSIR-NPL |
+| **[RideOn](https://github.com/ChiefBush/RideOn)** | Full-stack ride-hailing platform with live GPS tracking, OTP trips, and dynamic pricing |
+| **[AmazonML 2025](https://github.com/ChiefBush/AmazonMLChallange2025)** | Multimodal price prediction using SBERT + CLIP hybrid embeddings — top 2% nationally |
+| **[Brain Tumour Classifier](https://github.com/ChiefBush/InCITeProject)** | CNN-based deep learning model for automated MRI diagnosis — published at AutoCom-25 |
+
+---
+
+## Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chiefbush&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiefbush&show_icons=true&locale=en&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Building infrastructure for the physical-digital world — from EV highways to AR enterprise to space tech.*  
+*If you're working on something real, let's talk.*
+
+</div>
