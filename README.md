@@ -1,7 +1,7 @@
 # Shishir Dwivedi
 
 Co-Founder at [GingXR](https://www.gingxr.com) — enterprise AR infrastructure.  
-Lead Projects & Operations at [IndrEV](https://www.indrev.in) — EV charging across North India's highway corridors.
+
 
 CS & Business Systems, Amity University.
 
